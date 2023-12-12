@@ -2,7 +2,7 @@
 - 👀 I’m interested in getting an internship
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on machine learning projects
-- 📫 How to reach me lukerea3@gmail.com
+- 📫 How to reach me clr261@txstate.edu
 
 <!---
 LukeRea3/LukeRea3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
