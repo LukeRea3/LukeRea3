@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukeRea3
 - 👀 I’m interested in getting an internship
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me clr261@txstate.edu
 
